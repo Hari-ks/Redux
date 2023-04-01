@@ -1,0 +1,179 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "TV Remote",
+      "price": 500,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/GG/OP/VS/66697248/amozon-fire-stick-500x500.jpg",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "product": "MI PowerBank",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31grUs8OpvL._US450_SCLZZZZZZZ_.jpg",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "product": "Speaker",
+      "price": 1999,
+      "image": "https://w7.pngwing.com/pngs/369/911/png-transparent-amazon-alexa-google-assistant-google-home-toralarm-gmbh-asistente-persoal-intelixente-amazon-alexa-multimedia-memento-google-search-thumbnail.png",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "product": "Random Product",
+      "price": 2500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkboLFp3kiEsW0NiJkRmp4oHD1vp_okpNaA&usqp=CAU",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "product": "Random Product",
+      "price": 140,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkpcUZ17fTBtMLR_B6UfMtL6ClAzVu1hpMw&usqp=CAU",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "product": "HeadPhone",
+      "price": 1250,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoYsA5dQEJo-vLqIr3oxboBUf2Z1so4yW-gPOwS2xEmgaSfQZ5R3zRfczqbnbuds66pk&usqp=CAU",
+      "count": 1
+    }
+  ],
+  "checkOut": [
+    {
+      "id": 1,
+      "product": "Random Product",
+      "price": 120,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/GG/OP/VS/66697248/amozon-fire-stick-500x500.jpg",
+      "count": 1
+    },
+    [
+      3,
+      {
+        "id": 2,
+        "product": "Random Product",
+        "price": 130,
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31grUs8OpvL._US450_SCLZZZZZZZ_.jpg",
+        "count": 2
+      },
+      {
+        "id": 4,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkboLFp3kiEsW0NiJkRmp4oHD1vp_okpNaA&usqp=CAU",
+        "count": 2
+      },
+      {
+        "id": 3,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://w7.pngwing.com/pngs/369/911/png-transparent-amazon-alexa-google-assistant-google-home-toralarm-gmbh-asistente-persoal-intelixente-amazon-alexa-multimedia-memento-google-search-thumbnail.png",
+        "count": 2
+      }
+    ],
+    [
+      {
+        "TOTAL PRODUCT": 2,
+        "CheckOut Date&Time": "2023-03-31T09:35:41.767Z"
+      },
+      {
+        "id": 3,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://w7.pngwing.com/pngs/369/911/png-transparent-amazon-alexa-google-assistant-google-home-toralarm-gmbh-asistente-persoal-intelixente-amazon-alexa-multimedia-memento-google-search-thumbnail.png",
+        "count": 1
+      },
+      {
+        "id": 4,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkboLFp3kiEsW0NiJkRmp4oHD1vp_okpNaA&usqp=CAU",
+        "count": 2
+      },
+      {
+        "id": 2,
+        "product": "Random Product",
+        "price": 130,
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31grUs8OpvL._US450_SCLZZZZZZZ_.jpg",
+        "count": 2
+      }
+    ],
+    [
+      {
+        "TOTAL PRODUCT": 3,
+        "CheckOut Date&Time": "2023-03-31T09:38:22.608Z"
+      },
+      {
+        "id": 2,
+        "product": "Random Product",
+        "price": 130,
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31grUs8OpvL._US450_SCLZZZZZZZ_.jpg",
+        "count": 2
+      },
+      {
+        "id": 3,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://w7.pngwing.com/pngs/369/911/png-transparent-amazon-alexa-google-assistant-google-home-toralarm-gmbh-asistente-persoal-intelixente-amazon-alexa-multimedia-memento-google-search-thumbnail.png",
+        "count": 3
+      }
+    ],
+    [
+      {
+        "TOTAL PRODUCT": 3,
+        "CheckOut Date&Time": "2023-03-31T09:39:20.059Z"
+      },
+      {
+        "id": 1,
+        "product": "Random Product",
+        "price": 120,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/GG/OP/VS/66697248/amozon-fire-stick-500x500.jpg",
+        "count": 4
+      },
+      {
+        "id": 4,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkboLFp3kiEsW0NiJkRmp4oHD1vp_okpNaA&usqp=CAU",
+        "count": 1
+      },
+      {
+        "id": 5,
+        "product": "Random Product",
+        "price": 140,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkpcUZ17fTBtMLR_B6UfMtL6ClAzVu1hpMw&usqp=CAU",
+        "count": 1
+      }
+    ],
+    [
+      {
+        "TOTAL PRODUCT": 2,
+        "CheckOut Date&Time": "2023-03-31T12:55:15.531Z"
+      },
+      {
+        "id": 4,
+        "product": "Random Product",
+        "price": 2500,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkboLFp3kiEsW0NiJkRmp4oHD1vp_okpNaA&usqp=CAU",
+        "count": 2
+      }
+    ],
+    [
+      {
+        "TOTAL PRODUCT": 7,
+        "CheckOut Date&Time": "2023-04-01T08:03:08.653Z"
+      },
+      {
+        "id": 2,
+        "product": "MI PowerBank",
+        "price": 1500,
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31grUs8OpvL._US450_SCLZZZZZZZ_.jpg",
+        "count": 7
+      }
+    ]
+  ]
+}
